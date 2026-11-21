@@ -1,0 +1,4 @@
+ios-lorna-mikalle/LornaMikalle/Resources/Audio/lorna_theme.mp3 filter=lfs diff=lfs merge=lfs -text
+ios-lorna-mikalle/LornaMikalle/Resources/giulia_art_student-anim-idle-7.usdz filter=lfs diff=lfs merge=lfs -text
+ios-lorna-mikalle/LornaMikalle/Resources/giulia_art_student-anim-talk-with-left-hand-on-hip.usdz filter=lfs diff=lfs merge=lfs -text
+ios-lorna-mikalle/LornaMikalle/Resources/giulia_art_student.usdz filter=lfs diff=lfs merge=lfs -text
